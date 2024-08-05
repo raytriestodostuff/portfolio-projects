@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [DC_MOTOR_DRIVER.PrjPcb]
+   Generated File[MTR_DVR_PCB.TXT]
+   Generated File[MTR_DVR_PCB.LDP]
+   Generated File[MTR_DVR_PCB.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 17:22:17 On 05/08/2024

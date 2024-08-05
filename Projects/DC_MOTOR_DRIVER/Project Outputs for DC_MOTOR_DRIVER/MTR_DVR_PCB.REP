@@ -1,0 +1,391 @@
+*************************************************************
+FileName = MTR_DVR_PCB.GBR
+AutoAperture = True
+*************************************************************
+Generating : Dielectric 1
+      File : MTR_DVR_PCB_Other_1.gbr
+
+    Adding Layer      : Dielectric 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Multi-Layer
+      File : MTR_DVR_PCB_Other.gbr
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D40
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Bottom Component Center
+      File : MTR_DVR_PCB_Bottom_Component_Center.gbr
+
+    Adding Layer      : Bottom Component Center
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom 3D Body
+      File : MTR_DVR_PCB_Bottom_3D_Body.gbr
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : MTR_DVR_PCB_Bottom_Courtyard.gbr
+
+    Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : MTR_DVR_PCB_Bottom_Assembly.gbr
+
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Component Center
+      File : MTR_DVR_PCB_Top_Component_Center.gbr
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D43
+    D44
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : MTR_DVR_PCB_Top_Courtyard.gbr
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D11
+    D43
+    D44
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : MTR_DVR_PCB_Top_3D_Body.gbr
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D11
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Bottom Component Outline
+      File : MTR_DVR_PCB_Bottom_Component_Outline.gbr
+
+    Adding Layer      : Bottom Component Outline
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Component Outline
+      File : MTR_DVR_PCB_Top_Component_Outline.gbr
+
+    Adding Layer      : Top Component Outline
+
+
+Used DCodes :
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : MTR_DVR_PCB_Top_Assembly.gbr
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : MTR_DVR_PCB_Mechanical_1.gbr
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : MTR_DVR_PCB_Keep-out.gbr
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : MTR_DVR_PCB_Paste_Bot.gbr
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : MTR_DVR_PCB_Paste_Top.gbr
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : MTR_DVR_PCB_Soldermask_Bot.gbr
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : MTR_DVR_PCB_Soldermask_Top.gbr
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D20
+    D21
+    D22
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : MTR_DVR_PCB_Legend_Bot.gbr
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : MTR_DVR_PCB_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : MTR_DVR_PCB_Pads_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D40
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : MTR_DVR_PCB_Pads_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D40
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : MTR_DVR_PCB_Copper_Signal_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D38
+    D39
+    D40
+    D41
+    D42
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : MTR_DVR_PCB_Copper_Signal_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D38
+    D39
+    D40
+    D41
+    D42
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : MTR_DVR_PCB_Drawing_1.gbr
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D13
+    D45
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : MTR_DVR_PCB_Drillmap_1.gbr
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : MTR_DVR_PCB_Profile.gbr
+
+
+Used DCodes :
+    D46
+*************************************************************
+

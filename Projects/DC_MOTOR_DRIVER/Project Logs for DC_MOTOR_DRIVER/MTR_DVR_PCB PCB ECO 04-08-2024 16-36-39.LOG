@@ -1,0 +1,19 @@
+Added Component: Designator=U1(DIODES INC SOT-89 LINEAR REG)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com/AP7381-33SA-7-Diodes-Inc.-datasheet-166296600.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com/AP7381-33SA-7-Diodes-Inc.-datasheet-166296600.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.octopart.com/AP7381-33SA-7-Diodes-Inc.-datasheet-141402627.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.octopart.com/AP7381-33SA-7-Diodes-Inc.-datasheet-141402627.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part No."; Value = "C3752764"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diodes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "AP7381-33SA-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1NUMBER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "3.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0.62, 10=0.37, 25=0.3044, 100=0.23, 250=0.19328, 500=0.17066, 1000=0.15167 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "31-AP7381-33SA-7CT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=VCC Pin=U1-3
+Added Member To Class: ClassName=DC_MTR_DVR_SCHEM Member=Component U1 AP7381-33SA-7
